@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "hexo-lazyload-image": "^1.1.3"
+  }
+}
